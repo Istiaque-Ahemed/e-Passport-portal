@@ -1,0 +1,17 @@
+.Container{
+    position: relative;
+    text-align: center;
+    color: balck;
+}
+.img{
+    object-fit: cover;
+}
+.text-portal{
+position: absolute;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%, -50%);
+  line-height: 1.71;
+  text-align: left;
+  font-size: 20px;
+}
